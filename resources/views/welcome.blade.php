@@ -48,10 +48,8 @@
           </a>
         </div>
       </div>
-    </div>
-    <--Main Navigation
+</div>
 <header>
-    Sidebar 
     <nav id="sidebarMenu" class="collapse d-lg-block sidebar collapse bg-white">
       <div class="position-sticky">
         <div class="list-group list-group-flush mx-3 mt-4">
@@ -62,42 +60,12 @@
           >
             <i class="fas fa-tachometer-alt fa-fw me-3"></i><span>Sobre Nós</span>
           </a>
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple active">
-            <i class="fas fa-chart-area fa-fw me-3"></i><span>Webiste traffic</span>
-          </a>
           <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-lock fa-fw me-3"></i><span>Password</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-chart-line fa-fw me-3"></i><span>Analytics</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple">
-            <i class="fas fa-chart-pie fa-fw me-3"></i><span>CEO</span>
-          </a>
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-chart-bar fa-fw me-3"></i><span>Orders</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-globe fa-fw me-3"></i><span>International</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-building fa-fw me-3"></i><span>Partners</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-calendar fa-fw me-3"></i><span>Calendar</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-users fa-fw me-3"></i><span>Users</span></a
-          >
-          <a href="#" class="list-group-item list-group-item-action py-2 ripple"
-            ><i class="fas fa-money-bill fa-fw me-3"></i><span>Sales</span></a
+            ><i class="fas fa-globe fa-fw me-3"></i><span>Contatos</span></a
           >
         </div>
       </div>
     </nav>
-    Sidebar 
-  
-     Navbar 
     <nav id="main-navbar" class="navbar navbar-expand-lg navbar-light bg-white fixed-top">
        Container wrapper 
       <div class="container-fluid">
@@ -261,45 +229,11 @@
           </li>
         </ul>
       </div>
-       Container wrapper 
     </nav>
-     Navbar 
   </header>
-  Main Navigation
-  
-  Main layout
   <main style="margin-top: 58px;">
     <div class="container pt-4"></div>
   </main>
-  Main layout
-  Carousel wrapper 
-<div
-id="carouselMultiItemExample"
-class="carousel slide carousel-dark text-center"
-data-mdb-ride="carousel"
->
- Controls 
-<div class="d-flex justify-content-center mb-4">
-  <button
-    class="carousel-control-prev position-relative"
-    type="button"
-    data-mdb-target="#carouselMultiItemExample"
-    data-mdb-slide="prev"
-  >
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
-  </button>
-  <button
-    class="carousel-control-next position-relative"
-    type="button"
-    data-mdb-target="#carouselMultiItemExample"
-    data-mdb-slide="next"
-  >
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
-  </button>
-</div>
- Inner 
 <div class="carousel-inner py-4">
    Single item -
   <div class="carousel-item active">
