@@ -30,6 +30,7 @@ e é por isso que temos orgulho de fazer o que fazemos.
 Por último, gostaríamos de afirmar que a nossa principal prioridade é 
 você, o nosso cliente. Esperamos que você desfrute da experiência de 
 compra que preparamos com tanto carinho.</p>
+<a href="/"> back</a>
     
 </body>
 </html>
