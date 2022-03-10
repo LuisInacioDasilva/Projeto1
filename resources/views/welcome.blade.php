@@ -19,9 +19,14 @@
 
 <body>
 
-      <header>
-          
-    <a href="/sobrenos">sobre nós</a>
+      <header class="conteiner-header">
+          <div class="header">
+             <ul>
+               <li><a href="/sobrenos">sobre nós</a></li>
+               <li>Home</li>
+             </ul>
+            
+          </div>
       </header>
 
   

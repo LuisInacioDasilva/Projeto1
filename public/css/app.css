@@ -1,3 +1,24 @@
-a{
-    font-size: 36rem;
+.conteiner-header{
+    height: 50PX;
+    width: 100%;
+    margin: 0 auto;
+    background-color: pink;
+    
 }
+
+.header{
+    max-width: 600px;
+    display: flex;
+    justify-content: center;
+}
+ul{
+    display: flex;
+    padding: 0;
+}
+li, li a{
+    margin: 0 15px;
+    text-decoration: none;
+    list-style: none;
+}
+
+
