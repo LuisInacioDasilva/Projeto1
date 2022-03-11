@@ -1,7 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
-
+use App\Http\Controllers\Canecas;
 /*
 |--------------------------------------------------------------------------
 | Web Routes
@@ -20,5 +20,9 @@ Route::get('/sobrenos', function(){
     return view('sobrenos');
 });
 
-Route::get('/cadastrarcanecas', [Canecas::class], 'cadastrar_canecas');
-    
+Route::get('/cadastrarcaneca', [Canecas::class, 'cadastrar_caneca']);
+
+Route::get('/cadastrarcanecas_store', [Canecas::class, 'cadastrarcan_store']);
+// Route::get('/cadastrarcanecas_store', function(){
+//     return view('sobrenos');
+// });
