@@ -19,3 +19,6 @@ Route::get('/', function () {
 Route::get('/sobrenos', function(){
     return view('sobrenos');
 });
+
+Route::get('/cadastrarcanecas', [Canecas::class], 'cadastrar_canecas');
+    
